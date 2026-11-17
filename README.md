@@ -14,10 +14,10 @@ repositório.
   de sequência, fluxo de sucesso, compensações e estados da Saga.
 - [`docs/ubiquitous-language.md`](docs/ubiquitous-language.md): vocabulário
   comum dos bounded contexts.
+- [`docs/resumo-fase-quatro.md`](docs/resumo-fase-quatro.md): diagrama
+  de sequência, fluxo de sucesso, compensações e estados da Saga.
 - [`docs/acceptance/service-order-flow.feature`](docs/acceptance/service-order-flow.feature):
   cenários de aceitação do fluxo distribuído.
-- [`docs/documentation-inventory.md`](docs/documentation-inventory.md):
-  classificação da documentação legada e critérios de pertencimento.
 
 Alterações incompatíveis devem criar uma nova versão do schema. Alterações
 compatíveis podem ser adicionadas mantendo os campos existentes.
